@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Handwritten Digit Recognition is like the "Hello World" of Machine Learning. It is a problem that is not trivial to solve but also not too difficult so its a great starting point. The goal of this project was to learn and master core concepts related to artificial neural network through building a neural network from scratch that could recognise handwritten digits. To accomplish all this I worked through the book tittled "Neural Networks and Deep Learning" by Michael Nielsen and followed some other sources, all of which are credited below. Finally, understanding the core of ANNs made it easier to replicate the neural network using python libraries.
+Handwritten Digit Recognition is like the "Hello World" of Machine Learning. It is a problem that is not trivial to solve but also not too difficult so its a great starting point. The goal of this project was to learn and master core concepts related to artificial neural network through building a neural network from scratch that could recognise handwritten digits. To accomplish all this, I worked through the book tittled "Neural Networks and Deep Learning" by Michael Nielsen and followed some other sources, all of which are credited below. Finally, understanding the core of ANNs made it easier to replicate the neural network using python libraries.
 
 ---
 
